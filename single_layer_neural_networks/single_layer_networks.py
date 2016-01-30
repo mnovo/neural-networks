@@ -1,3 +1,5 @@
+# Michael Novo
+
 from __future__ import division
 import copy
 import numpy as np

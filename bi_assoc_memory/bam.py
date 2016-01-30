@@ -1,10 +1,4 @@
-'''
-Author: Michael Novo
-email: mnovo006@fiu.edu
-[EEL 5813] Neural Networks
-Summer A 2015
-Project 3 - Bidirectional Associative Memory (BAM!)
-'''
+# Michael Novo
 
 from __future__ import division
 import copy
